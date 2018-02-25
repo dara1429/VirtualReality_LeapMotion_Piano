@@ -4,6 +4,7 @@ Summary :
 - This application provides the ability for a user to play a virtual piano (with VR), while using fully mapped hands (via Leap Motion). This allows for more accurate, real-to-life playing of a piano. 
 - The user can choose to play on the virtual piano freely, highlighting his/her keystrokes, or practice by following a series of keystrokes read in by a sample song file.
 
+- Note : Unity was used for version control as only one of the groups computers could run/test the Oculus software reliably. 
 
 Build Requirements :
 
